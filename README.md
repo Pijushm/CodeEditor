@@ -10,8 +10,8 @@ Gcc/G++ compiler should be installed for running the application . The environme
 
 Usage :
 The apps has a simple interface for writing code and editing with Compile,Build and Run Options. 
-To compile the code simply go to Build>Compile
-To execute the program go to Build>Run
+-To compile the code simply go to Build>Compile
+-To execute the program go to Build>Run
 
 
 Authors
